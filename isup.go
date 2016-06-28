@@ -27,5 +27,7 @@ func main() {
   // assume the site is up.
   if response.Status != "503" {
     fmt.Println("Looks like", url, "is up!\nStatus Code:", response.Status)
+  } else {
+    fmt.Println("Looks like", url, "is down with Status Code 503.")
   }
 }

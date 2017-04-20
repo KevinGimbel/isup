@@ -1,4 +1,7 @@
 # isup
+
+[![Go Report Card](https://goreportcard.com/badge/github.com/kevingimbel/isup.go)](https://goreportcard.com/report/github.com/kevingimbel/isup.go)
+
 Go executable to check if a remote host is available or not. First argument passed is the URL to check. **This is a test and my first test of programming in Go beside Hello World.**
 
 ### Install

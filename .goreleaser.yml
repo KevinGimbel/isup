@@ -15,5 +15,5 @@ brew:
   github:
     owner: kevingimbel
     name: homebrew-tap
-    homepage: https://github.com/kevingimbel/isup
-    description: Tool to check if a website is up or down
+  homepage: https://github.com/kevingimbel/isup
+  description: Tool to check if a website is up or down
